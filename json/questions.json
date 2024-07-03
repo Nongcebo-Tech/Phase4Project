@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is Sheldon Cooper's IQ?",
+    "choice1": "180",
+    "choice2": "187",
+    "choice3": "190",
+    "choice4": "195",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the comic book store owner?",
+    "choice1": "Stuart Bloom",
+    "choice2": "Barry Kripke",
+    "choice3": "Leslie Winkle",
+    "choice4": "Bert Kibbler",
+    "answer": 1
+  },
+  {
+    "question": "Which character is known for their inability to talk to women without alcohol?",
+    "choice1": "Leonard",
+    "choice2": "Raj",
+    "choice3": "Howard",
+    "choice4": "Sheldon",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of Howard and Bernadette's first child?",
+    "choice1": "Amy",
+    "choice2": "Melissa",
+    "choice3": "Hallie",
+    "choice4": "Emily",
+    "answer": 3
+  },
+  
+  {
+    "question": "What is Penny's last name before she marries Leonard?",
+    "choice1": "Smith",
+    "choice2": "Johnson",
+    "choice3": "Hofstadter",
+    "choice4": "It is never revealed",
+    "answer": 4
+  }
+  
+]
